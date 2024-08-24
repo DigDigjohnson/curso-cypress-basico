@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\src"
   ],
-  "SelectedNode": "\\.github\\workflows\\ci.yml",
+  "SelectedNode": "\\src\\script.js",
   "PreviewInSolutionExplorer": false
 }
